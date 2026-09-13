@@ -1,0 +1,1378 @@
+[
+  {
+    "id": "RULE-POS-RULE-PB-BER-GEN-891599",
+    "category": "positive",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Banyak malai putih dan tegak",
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "RULE-PB-BER-GEN-891599",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-PB-BER-VEG-56D62B",
+    "category": "positive",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Banyak anakan mati pada area yang terserang",
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "RULE-PB-BER-VEG-56D62B",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WS-BER-GEN-6BA7D6",
+    "category": "positive",
+    "pest_label": "walang_sangit",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Banyak gabah hampa dan sangat ringan",
+      "Gabah keriput atau berwarna putih kapur"
+    ],
+    "expected_rule_code": "RULE-WS-BER-GEN-6BA7D6",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WBC-BER-GEN-2EFA60",
+    "category": "positive",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Hopperburn: rumpun cokelat dan kering seperti terbakar",
+      "Banyak rumpun mati pada area serangan",
+      "Ada lapisan hitam seperti jelaga di pangkal batang"
+    ],
+    "expected_rule_code": "RULE-WBC-BER-GEN-2EFA60",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WBC-BER-VEG-DB8CCE",
+    "category": "positive",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Hopperburn: rumpun cokelat dan kering seperti terbakar",
+      "Banyak rumpun mati pada area serangan",
+      "Ada lapisan hitam seperti jelaga di pangkal batang"
+    ],
+    "expected_rule_code": "RULE-WBC-BER-VEG-DB8CCE",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-PB-RIN-GEN-FEC4C0",
+    "category": "positive",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "RULE-PB-RIN-GEN-FEC4C0",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-PB-RIN-VEG-84E12E",
+    "category": "positive",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "RULE-PB-RIN-VEG-84E12E",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WS-RIN-GEN-32168D",
+    "category": "positive",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Ada bekas tusukan atau bintik cokelat pada gabah"
+    ],
+    "expected_rule_code": "RULE-WS-RIN-GEN-32168D",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WBC-RIN-GEN-BDC783",
+    "category": "positive",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Daun bagian bawah mulai menguning"
+    ],
+    "expected_rule_code": "RULE-WBC-RIN-GEN-BDC783",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WBC-RIN-VEG-250499",
+    "category": "positive",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Daun bagian bawah mulai menguning"
+    ],
+    "expected_rule_code": "RULE-WBC-RIN-VEG-250499",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-PB-SED-GEN-AB3E3D",
+    "category": "positive",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Gabah hampa pada malai yang memutih",
+      "Lubang kecil pada pelepah atau batang",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "RULE-PB-SED-GEN-AB3E3D",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-PB-SED-VEG-7B62D7",
+    "category": "positive",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Beberapa anakan dalam rumpun mati",
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "RULE-PB-SED-VEG-7B62D7",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WS-SED-GEN-0F6278",
+    "category": "positive",
+    "pest_label": "walang_sangit",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Ada bekas tusukan atau bintik cokelat pada gabah",
+      "Gabah berisi sedikit, kecil, atau hampa sebagian"
+    ],
+    "expected_rule_code": "RULE-WS-SED-GEN-0F6278",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WBC-SED-GEN-D558BA",
+    "category": "positive",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Beberapa rumpun menguning dan mulai menyebar",
+      "Tanaman layu atau kering meski air cukup"
+    ],
+    "expected_rule_code": "RULE-WBC-SED-GEN-D558BA",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-POS-RULE-WBC-SED-VEG-CB59EC",
+    "category": "positive",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.88,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Beberapa rumpun menguning dan mulai menyebar",
+      "Tanaman layu atau kering meski air cukup"
+    ],
+    "expected_rule_code": "RULE-WBC-SED-VEG-CB59EC",
+    "expected_fallback": false,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-PB-BER-GEN-891599",
+    "category": "identity_only",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-PB-BER-VEG-56D62B",
+    "category": "identity_only",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WS-BER-GEN-6BA7D6",
+    "category": "identity_only",
+    "pest_label": "walang_sangit",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WBC-BER-GEN-2EFA60",
+    "category": "identity_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Ada lapisan hitam seperti jelaga di pangkal batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WBC-BER-VEG-DB8CCE",
+    "category": "identity_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Ada lapisan hitam seperti jelaga di pangkal batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-PB-RIN-GEN-FEC4C0",
+    "category": "identity_only",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-PB-RIN-VEG-84E12E",
+    "category": "identity_only",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WS-RIN-GEN-32168D",
+    "category": "identity_only",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WBC-RIN-GEN-BDC783",
+    "category": "identity_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WBC-RIN-VEG-250499",
+    "category": "identity_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-PB-SED-GEN-AB3E3D",
+    "category": "identity_only",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Lubang kecil pada pelepah atau batang",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-PB-SED-VEG-7B62D7",
+    "category": "identity_only",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WS-SED-GEN-0F6278",
+    "category": "identity_only",
+    "pest_label": "walang_sangit",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WBC-SED-GEN-D558BA",
+    "category": "identity_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-IDENTITY-RULE-WBC-SED-VEG-CB59EC",
+    "category": "identity_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-PB-BER-GEN-891599",
+    "category": "damage_only",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak malai putih dan tegak",
+      "Malai putih, tegak, dan gabah hampa (beluk)"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-PB-BER-VEG-56D62B",
+    "category": "damage_only",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak anakan mati pada area yang terserang",
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WS-BER-GEN-6BA7D6",
+    "category": "damage_only",
+    "pest_label": "walang_sangit",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak gabah hampa dan sangat ringan",
+      "Gabah keriput atau berwarna putih kapur"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WBC-BER-GEN-2EFA60",
+    "category": "damage_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Hopperburn: rumpun cokelat dan kering seperti terbakar",
+      "Banyak rumpun mati pada area serangan"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WBC-BER-VEG-DB8CCE",
+    "category": "damage_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Hopperburn: rumpun cokelat dan kering seperti terbakar",
+      "Banyak rumpun mati pada area serangan"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-PB-RIN-GEN-FEC4C0",
+    "category": "damage_only",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-PB-RIN-VEG-84E12E",
+    "category": "damage_only",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WS-RIN-GEN-32168D",
+    "category": "damage_only",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Ada bekas tusukan atau bintik cokelat pada gabah"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WBC-RIN-GEN-BDC783",
+    "category": "damage_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Daun bagian bawah mulai menguning"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WBC-RIN-VEG-250499",
+    "category": "damage_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Daun bagian bawah mulai menguning"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-PB-SED-GEN-AB3E3D",
+    "category": "damage_only",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Gabah hampa pada malai yang memutih"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-PB-SED-VEG-7B62D7",
+    "category": "damage_only",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Beberapa anakan dalam rumpun mati"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WS-SED-GEN-0F6278",
+    "category": "damage_only",
+    "pest_label": "walang_sangit",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Ada bekas tusukan atau bintik cokelat pada gabah",
+      "Gabah berisi sedikit, kecil, atau hampa sebagian"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WBC-SED-GEN-D558BA",
+    "category": "damage_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Beberapa rumpun menguning dan mulai menyebar",
+      "Tanaman layu atau kering meski air cukup"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-DAMAGE-RULE-WBC-SED-VEG-CB59EC",
+    "category": "damage_only",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Beberapa rumpun menguning dan mulai menyebar",
+      "Tanaman layu atau kering meski air cukup"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-PB-BER-GEN-891599",
+    "category": "no_evidence",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-PB-BER-VEG-56D62B",
+    "category": "no_evidence",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WS-BER-GEN-6BA7D6",
+    "category": "no_evidence",
+    "pest_label": "walang_sangit",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WBC-BER-GEN-2EFA60",
+    "category": "no_evidence",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WBC-BER-VEG-DB8CCE",
+    "category": "no_evidence",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-PB-RIN-GEN-FEC4C0",
+    "category": "no_evidence",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-PB-RIN-VEG-84E12E",
+    "category": "no_evidence",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WS-RIN-GEN-32168D",
+    "category": "no_evidence",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WBC-RIN-GEN-BDC783",
+    "category": "no_evidence",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WBC-RIN-VEG-250499",
+    "category": "no_evidence",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-PB-SED-GEN-AB3E3D",
+    "category": "no_evidence",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-PB-SED-VEG-7B62D7",
+    "category": "no_evidence",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WS-SED-GEN-0F6278",
+    "category": "no_evidence",
+    "pest_label": "walang_sangit",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WBC-SED-GEN-D558BA",
+    "category": "no_evidence",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-NONE-RULE-WBC-SED-VEG-CB59EC",
+    "category": "no_evidence",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-BER-GEN-891599",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak malai putih dan tegak",
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-BER-VEG-56D62B",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak anakan mati pada area yang terserang",
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-WS-BER-GEN-6BA7D6",
+    "category": "growth_stage_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Banyak gabah hampa dan sangat ringan",
+      "Gabah keriput atau berwarna putih kapur"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-RIN-GEN-FEC4C0",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-RIN-VEG-84E12E",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-WS-RIN-GEN-32168D",
+    "category": "growth_stage_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Ada bekas tusukan atau bintik cokelat pada gabah"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-SED-GEN-AB3E3D",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Gabah hampa pada malai yang memutih",
+      "Lubang kecil pada pelepah atau batang",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-SED-VEG-7B62D7",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "sedang",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Beberapa anakan dalam rumpun mati",
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-WS-SED-GEN-0F6278",
+    "category": "growth_stage_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "sedang",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Ada bekas tusukan atau bintik cokelat pada gabah",
+      "Gabah berisi sedikit, kecil, atau hampa sebagian"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-BER-GEN-891599-V01",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak malai putih dan tegak",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-BER-VEG-56D62B-V02",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak anakan mati pada area yang terserang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-WS-BER-GEN-6BA7D6-V03",
+    "category": "growth_stage_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Walang sangit dewasa terlihat pada malai"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-RIN-GEN-FEC4C0-V04",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Lubang kecil pada pelepah atau batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-PB-RIN-VEG-84E12E-V05",
+    "category": "growth_stage_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Lubang kecil pada pelepah atau batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-STAGE-RULE-WS-RIN-GEN-32168D-V06",
+    "category": "growth_stage_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Walang sangit dewasa terlihat pada malai"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-PB-BER-GEN-891599",
+    "category": "severity_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak malai putih dan tegak",
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-PB-BER-VEG-56D62B",
+    "category": "severity_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak anakan mati pada area yang terserang",
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WS-BER-GEN-6BA7D6",
+    "category": "severity_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Banyak gabah hampa dan sangat ringan",
+      "Gabah keriput atau berwarna putih kapur"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WBC-BER-GEN-2EFA60",
+    "category": "severity_mismatch",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Hopperburn: rumpun cokelat dan kering seperti terbakar",
+      "Banyak rumpun mati pada area serangan",
+      "Ada lapisan hitam seperti jelaga di pangkal batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WBC-BER-VEG-DB8CCE",
+    "category": "severity_mismatch",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Hopperburn: rumpun cokelat dan kering seperti terbakar",
+      "Banyak rumpun mati pada area serangan",
+      "Ada lapisan hitam seperti jelaga di pangkal batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WBC-RIN-GEN-BDC783",
+    "category": "severity_mismatch",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Daun bagian bawah mulai menguning"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WBC-RIN-VEG-250499",
+    "category": "severity_mismatch",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "berat",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Daun bagian bawah mulai menguning"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-PB-SED-GEN-AB3E3D",
+    "category": "severity_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Malai putih, tegak, dan gabah hampa (beluk)",
+      "Gabah hampa pada malai yang memutih",
+      "Lubang kecil pada pelepah atau batang",
+      "Larva ditemukan di dalam batang",
+      "Ada saluran bekas makan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-PB-SED-VEG-7B62D7",
+    "category": "severity_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Pucuk/anakan tengah kering dan mudah dicabut (sundep)",
+      "Beberapa anakan dalam rumpun mati",
+      "Lubang kecil pada pelepah atau batang",
+      "Serbuk atau kotoran gerekan di sekitar lubang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WS-SED-GEN-0F6278",
+    "category": "severity_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Walang sangit dewasa terlihat pada malai",
+      "Nimfa walang sangit terlihat pada malai",
+      "Ada bekas tusukan atau bintik cokelat pada gabah",
+      "Gabah berisi sedikit, kecil, atau hampa sebagian"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WBC-SED-GEN-D558BA",
+    "category": "severity_mismatch",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Beberapa rumpun menguning dan mulai menyebar",
+      "Tanaman layu atau kering meski air cukup"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WBC-SED-VEG-CB59EC",
+    "category": "severity_mismatch",
+    "pest_label": "wereng_batang_cokelat",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Wereng terlihat di pangkal batang",
+      "Pangkal batang terasa lengket karena embun madu",
+      "Beberapa rumpun menguning dan mulai menyebar",
+      "Tanaman layu atau kering meski air cukup"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-PB-BER-GEN-891599-V01",
+    "category": "severity_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak malai putih dan tegak",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-PB-BER-VEG-56D62B-V02",
+    "category": "severity_mismatch",
+    "pest_label": "penggerek_batang",
+    "severity": "ringan",
+    "growth_stage": "vegetatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak anakan mati pada area yang terserang",
+      "Larva ditemukan di dalam batang"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  },
+  {
+    "id": "RULE-SEVERITY-RULE-WS-BER-GEN-6BA7D6-V03",
+    "category": "severity_mismatch",
+    "pest_label": "walang_sangit",
+    "severity": "ringan",
+    "growth_stage": "generatif",
+    "cnn_confidence": 0.99,
+    "symptoms": [
+      "Banyak gabah hampa dan sangat ringan",
+      "Walang sangit dewasa terlihat pada malai"
+    ],
+    "expected_rule_code": "",
+    "expected_fallback": true,
+    "critical": true
+  }
+]

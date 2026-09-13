@@ -1,0 +1,45 @@
+name: agripadi
+description: "AgriPadi frontend v2 - CNN model embedded in Flutter using TFLite."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.6.0
+  flutter_secure_storage: ^10.0.0
+  image_picker: ^1.2.1
+  connectivity_plus: ^7.1.0
+  uuid: ^4.5.3
+  provider: ^6.1.5+1
+  intl: ^0.20.2
+  shared_preferences: ^2.5.5
+  tflite_flutter: ^0.12.1
+  image: ^4.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+  
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icon/
+    - assets/model/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: assets/icon/app_icon.png

@@ -1,0 +1,36 @@
+app:
+  name: smart-farming-engine
+  env: development
+  port: 8182
+
+database:
+  # Isi melalui DATABASE_DSN atau DB_DSN.
+  dsn: ""
+
+logging:
+  level: info
+  debug: false
+
+auth:
+  # Isi melalui JWT_SECRET atau AUTH_JWT_SECRET.
+  jwt_secret: ""
+
+llm:
+  provider: groq
+  api_url: https://api.groq.com/openai/v1
+  # Isi melalui LLM_API_KEY atau GROQ_API_KEY.
+  api_key: ""
+  model: qwen/qwen3.6-27b
+  timeout: 30s
+
+cnn:
+  mode: on_device_flutter
+  url: ""
+
+cors:
+  allowed_origins:
+    - https://petanitech.com
+    - https://www.petanitech.com
+    - https://app.petanitech.com
+    - https://agripadi.petanitech.com
+    - http://localhost:5173
